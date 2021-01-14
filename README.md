@@ -7,3 +7,4 @@ all the blocks without letting the ball go out of bounds
 -> Each levels is harder then the previous one
 -> The platforms which the ball bounces from gets smaller as the levels progress
 -> The block formation gets more complex as the levels progress
+-> The game is written for the Basys3 board using vivado
